@@ -1,0 +1,3 @@
+C:/GitHub/AiSD/zad3/cmake-build-debug/CMakeFiles/zad3.dir
+C:/GitHub/AiSD/zad3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GitHub/AiSD/zad3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
